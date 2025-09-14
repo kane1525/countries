@@ -10,7 +10,7 @@ import { NotFound } from './pages/NotFound';
 function App() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Main>
         <Routes>
           <Route path="/" element={
